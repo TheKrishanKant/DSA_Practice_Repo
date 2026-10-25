@@ -3,7 +3,6 @@ public:
     string removeOuterParentheses(string s) {
         int sum = 1;
         string result;
-        vector<int> pos;
         
         for(int i = 1; i < s.size(); i++){
             if(s[i]=='('){
