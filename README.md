@@ -20,4 +20,13 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
