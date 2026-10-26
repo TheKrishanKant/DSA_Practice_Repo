@@ -19,6 +19,7 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -29,4 +30,16 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1021-remove-outermost-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
