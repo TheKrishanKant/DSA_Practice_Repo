@@ -33,6 +33,7 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -42,4 +43,8 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
