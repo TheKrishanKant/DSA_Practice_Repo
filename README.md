@@ -22,6 +22,7 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 | [0389-find-the-difference](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1021-remove-outermost-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +48,12 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
