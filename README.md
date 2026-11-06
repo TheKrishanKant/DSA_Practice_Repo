@@ -58,4 +58,8 @@ This repository is linked with **LeetHub v2** and contains all my **DSA solution
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/1221-split-a-string-in-balanced-strings) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/TheKrishanKant/DSA_Practice_Repo/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
